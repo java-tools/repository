@@ -4,7 +4,7 @@
 <repository>
   <id>jt-maven-repo</id>
   <name>Java Tools Github Maven Repository</name>
-  <url>http://java-tools.github.io/repository</url>
+  <url>https://java-tools.github.io/repository/releases</url>
   <layout>default</layout>
 </repository>
 ```
